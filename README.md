@@ -1,4 +1,4 @@
-::: {align="center"}
+{align="center"}
 # ABINASH PATRA
 
 ### Data Science · Data Analytics · Software Development
