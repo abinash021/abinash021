@@ -1,4 +1,3 @@
-::: {align="center"}
 # Hi, I am ABINASH PATRA
 
 ### Data Science · Data Analytics · Software Development
@@ -8,8 +7,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-abinash021-181717?style=for-the-badge&logo=github)](https://github.com/abinash021)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patraabinash1028@gmail.com)
 
-`<img src="https://komarev.com/ghpvc/?username=abinash021&style=flat-square&color=blue" alt="Profile views" />`{=html}
-:::
 
 ------------------------------------------------------------------------
 
@@ -103,3 +100,5 @@
 
 **Always learning. Always building.**
 :::
+
+https://raw.githubusercontent.com/abinash021/abinash021/output/github-contribution-grid-snake.svg
