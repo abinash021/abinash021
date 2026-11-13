@@ -1,4 +1,5 @@
-# Hii, I am ABINASH PATRA
+::: {align="center"}
+# Hi, I am ABINASH PATRA
 
 ### Data Science · Data Analytics · Software Development
 
