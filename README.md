@@ -6,7 +6,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-abinash021-181717?style=for-the-badge&logo=github)](https://github.com/abinash021)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patraabinash1028@gmail.com)
-[![Linktree](https://img.shields.io/badge/Linktree-abinash021-D14836?style=for-the-badge&logo=tree&logoColor=white)](https://linktr.ee/abinashpatra07)
+[![Linktree](https://img.shields.io/badge/Linktree-abinash021-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/abinashpatra07)
 
 
 ------------------------------------------------------------------------
@@ -83,27 +83,41 @@
 -   Certifications: **Microsoft Data Science · Cisco Python · BCG Forage
     Data Science · CCNAv7 · Full Stack Development**
 
-## 📊 GitHub
+## 📊 GitHub Statistics
 
-::: {align="center"}
-`<img height="165" src="https://github-readme-stats.vercel.app/api?username=abinash021&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics" />`{=html}
-`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinash021&layout=compact&hide_border=true" alt="Top languages" />`{=html}
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abinash021&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinash021&layout=compact&hide_border=true" alt="Top languages" />
+</p>
 
-`<img src="https://streak-stats.demolab.com?user=abinash021&hide_border=true" alt="GitHub contribution streak" />`{=html}
-:::
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abinash021&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
 ## 🤝 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-abinash021-181717?style=for-the-badge&logo=github)](https://github.com/abinash021)
-[![Gmail](https://img.shields.io/badge/Gmail-patraabinash1028%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patraabinash1028@gmail.com)
-[![Linktree](https://img.shields.io/badge/Linktree-abinash021-D14836?style=for-the-badge&logo=tree&logoColor=white)](https://linktr.ee/abinashpatra07)
+<p align="center">
+  <a href="https://github.com/abinash021">
+    <img src="https://img.shields.io/badge/GitHub-abinash021-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="mailto:patraabinash1028@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-patraabinash1028%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linktr.ee/abinashpatra07">
+    <img src="https://img.shields.io/badge/Linktree-abinash021-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
+  </a>
+</p>
 
-**Always learning. Always building.**
-:::
+<p align="center">
+  <strong>Always learning. Always building.</strong>
+</p>
 
-##Contribution Grid
+------------------------------------------------------------------------
 
-![Grid](https://raw.githubusercontent.com/abinash021/abinash021/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abinash021/abinash021/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+</p>
