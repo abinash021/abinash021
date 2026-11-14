@@ -56,8 +56,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-
-
 ## 🚀 Featured Projects
 
 | Project | Key Highlights | Technology Stack |
@@ -67,9 +65,6 @@
 | **🛒 E-commerce & Inventory Management – Web Application** | Product browsing, inventory management, and payment workflows. | PHP · MySQL · Git |
 | **🎯 Quiz Master – Desktop Application** | Offline-based quiz application designed for college students, featuring a desktop-based quiz experience. | Java · Java Swing · Java awt · Java iText · Git |
 
-
-
-
 ## 🎓 Education & Credentials
 
 -   **B.Tech, Computer Science & Engineering** --- SUIIT, Sambalpur University, Odisha
@@ -78,7 +73,6 @@
 -   Certifications: **Udemy Data Science · Cisco Python · BCG Forage
     Data Science · CCNAv7 · Full Stack Development**
 
-
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -86,8 +80,6 @@
   <img src="./profile/top-langs.svg" alt="Top Languages" height="180" />
   <img src="./profile/streak.svg" alt="GitHub Contribution Streak" />
 </p>
-
-------------------------------------------------------------------------
 
 ## 🤝 Connect With Me
 
@@ -106,9 +98,6 @@
 <p align="center">
   <strong>Always learning. Always building.</strong>
 </p>
-
-------------------------------------------------------------------------
-
 
 ## 🐍 Contribution Snake
 
