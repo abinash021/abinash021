@@ -70,14 +70,16 @@
 
 
 
+
 ## 🚀 Featured Projects
 
-| Project | Key Highlights | Technology Stack |
-|:---|:---|:---|
-| [**🌱 Intelligent Crop Recommendation System**](YOUR_CROP_PROJECT_URL) | Crop prediction, potato leaf disease classification, and *Kishan Mitra* AI assistant. | Python · Streamlit · Random Forest · MobileNetV2 · LangChain |
-| [**📸 Automated Attendance Management System**](https://github.com/abinash021/AAMS) | Face recognition, role-based access control, attendance reports, and defaulter tracking. | PHP · SQLite · AWS Rekognition · Git |
-| [**🛒 E-commerce & Inventory Management**](YOUR_ECOMMERCE_PROJECT_URL) | Product browsing, inventory management, and payment workflows. | PHP · MySQL · Git |
-| [**🎯 Quiz Master – Desktop Application**](YOUR_QUIZ_MASTER_URL) | Offline-based quiz application designed for college students. | Java · Java Swing · Java AWT · iText · Git |
+| Project | Key Highlights | Technology Stack | Project Link |
+|:---|:---|:---|:---|
+| **🌱 Intelligent Crop Recommendation System** | Crop prediction, potato leaf disease classification, and *Kishan Mitra* AI assistant. | Python · Streamlit · Random Forest · MobileNetV2 · LangChain | [View Project](https://github.com/abinash021/Farmer-hub) |
+| **📸 Automated Attendance Management System** | Face recognition, role-based access control, attendance reports, and defaulter tracking. | PHP · SQLite · AWS Rekognition · Git | [View Project](https://github.com/abinash021/AAMS) |
+| **🛒 E-commerce & Inventory Management** | Product browsing, inventory management, and payment workflows. | PHP · MySQL · Git | [Visit Website](https://kanhadtp.in/) |
+| **🎯 Quiz Master – Desktop Application** | Offline-based quiz application designed for college students. | Java · Java Swing · Java AWT · iText · Git | [View Project](https://github.com/abinash021/Quiz-Master-College-Project) |
+
 
 
 ## 🎓 Education & Credentials
