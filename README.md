@@ -9,7 +9,7 @@
 
 [![Email](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patraabinash1028@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abinash021/)
-[![Linktree](https://img.shields.io/badge/Linktree-abinash021-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/abinashpatra07)
+[![Linktree](https://img.shields.io/badge/Linktree-Profile-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/abinashpatra07)
 
 
 ## 👨‍💻 About Me
