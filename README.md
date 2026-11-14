@@ -6,14 +6,16 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-abinash021-181717?style=for-the-badge&logo=github)](https://github.com/abinash021)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patraabinash1028@gmail.com)
+[![Linktree](https://img.shields.io/badge/Linktree-abinash021-D14836?style=for-the-badge&logo=tree&logoColor=white)](https://linktr.ee/abinashpatra07)
 
 
 ------------------------------------------------------------------------
 
 ## 👨‍💻 About
 
--   🎓 **B.Tech CSE** --- SUIIT, Odisha
--   📊 Focus: **Data Science, Machine Learning & Analytics**
+-   🎓 **B.Tech CSE** --- SUIIT, Sambalpur, Odisha
+-   🎓 **Diploma IT** --- Govt. Polytechnic, Bhubaneswar, Odisha
+-   📊 Focus: **Data Science, Machine Learning & Data Analytics**
 -   💻 Also building **web applications and software solutions**
 -   🌱 Currently strengthening skills in data, AI and full-stack
     development
@@ -97,8 +99,11 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-abinash021-181717?style=for-the-badge&logo=github)](https://github.com/abinash021)
 [![Gmail](https://img.shields.io/badge/Gmail-patraabinash1028%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patraabinash1028@gmail.com)
+[![Linktree](https://img.shields.io/badge/Linktree-abinash021-D14836?style=for-the-badge&logo=tree&logoColor=white)](https://linktr.ee/abinashpatra07)
 
 **Always learning. Always building.**
 :::
 
-https://raw.githubusercontent.com/abinash021/abinash021/output/github-contribution-grid-snake.svg
+##Contribution Grid
+
+![Grid](https://raw.githubusercontent.com/abinash021/abinash021/output/github-contribution-grid-snake.svg)
