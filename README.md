@@ -1,4 +1,6 @@
-# Hi, I am ABINASH PATRA
+# Hi, I am Abinash Patra👋👀
+
+<img align ="right" src = "https://github.com/abinash021/abinash021/blob/main/assets/img-github.png" width="200" height="200">
 
 ### Data Science · Data Analytics · Software Development
 
@@ -11,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-<img align ="right" src = "https://github.com/abinash021/abinash021/assets/37103237/71528b45-2d50-4b5c-a5dc-67ba5242617a" width="150" height="200">
+
 
 -   🎓 **B.Tech CSE** --- SUIIT, Sambalpur University, Odisha
 -   🎓 **Diploma IT** --- Govt. Polytechnic, Bhubaneswar, Odisha
@@ -76,11 +78,12 @@
 -   Certifications: **Udemy Data Science · Cisco Python · BCG Forage
     Data Science · CCNAv7 · Full Stack Development**
 
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abinash021&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinash021&layout=compact&hide_border=true" alt="Top languages" />
+  <img src="./profile/stats.svg" alt="GitHub Statistics" height="180" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
