@@ -69,17 +69,85 @@
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
 
 
-
-
 ## 🚀 Featured Projects
 
-| Project | Key Highlights | Technology Stack | Project Link |
-|:---|:---|:---|:---|
-| **🌱 Intelligent Crop Recommendation System** | Crop prediction, potato leaf disease classification, and *Kishan Mitra* AI assistant. | Python · Streamlit · Random Forest · MobileNetV2 · LangChain | [View Project](https://github.com/abinash021/Farmer-hub) |
-| **📸 Automated Attendance Management System** | Face recognition, role-based access control, attendance reports, and defaulter tracking. | PHP · SQLite · AWS Rekognition · Git | [View Project](https://github.com/abinash021/AAMS) |
-| **🛒 E-commerce & Inventory Management** | Product browsing, inventory management, and payment workflows. | PHP · MySQL · Git | [Visit Website](https://kanhadtp.in/) |
-| **🎯 Quiz Master – Desktop Application** | Offline-based quiz application designed for college students. | Java · Java Swing · Java AWT · iText · Git | [View Project](https://github.com/abinash021/Quiz-Master-College-Project) |
+Explore some of my projects. Click on any project to view its details.
 
+<details>
+<summary><strong>🌱 Intelligent Crop Recommendation System</strong> — Machine Learning & Generative AI</summary>
+
+**Overview:**  
+An intelligent agriculture platform that provides crop recommendations, detects potato leaf diseases, and offers AI-powered farming assistance.
+
+**Key Features**
+- Crop recommendation using machine learning.
+- Potato leaf disease classification.
+- Kishan Mitra — AI-powered agricultural assistant.
+
+**Technology Stack**
+
+`Python` `Streamlit` `Random Forest` `MobileNetV2` `LangChain`
+
+🔗 **[View Project on GitHub](https://github.com/abinash021/Farmer-hub)**
+
+</details>
+
+<details>
+<summary><strong>📸 Automated Attendance Management System</strong> — Face Recognition & Cloud Computing</summary>
+
+**Overview:**  
+An automated attendance platform using face recognition and cloud-based image processing.
+
+**Key Features**
+- Face recognition-based attendance.
+- Role-based access control.
+- Attendance reports and defaulter tracking.
+
+**Technology Stack**
+
+`PHP` `SQLite` `AWS Rekognition` `JavaScript` `Bootstrap`
+
+🔗 **[View Project on GitHub](https://github.com/abinash021/AAMS)**
+
+</details>
+
+<details>
+<summary><strong>🎯 Quiz Master – Desktop Application</strong> — Java Development</summary>
+
+**Overview:**  
+An offline-based quiz application designed for college students.
+
+**Key Features**
+- Desktop-based quiz application.
+- Offline quiz functionality.
+- PDF-related functionality using iText.
+
+**Technology Stack**
+
+`Java` `Java Swing` `Java AWT` `iText`
+
+🔗 **[View Project on GitHub](https://github.com/abinash021/Quiz-Master-College-Project)**
+
+</details>
+
+<details>
+<summary><strong>🛒 E-commerce & Inventory Management</strong> — Web Development</summary>
+
+**Overview:**  
+An e-commerce platform featuring product browsing, inventory management, and payment workflows.
+
+**Key Features**
+- Product browsing and management.
+- Inventory management.
+- Online payment workflows.
+
+**Technology Stack**
+
+`PHP` `MySQL` `HTML` `CSS` `JavaScript`
+
+🌐 **[Visit Live Website](https://kanhadtp.in/)**
+
+</details>
 
 
 ## 🎓 Education & Credentials
