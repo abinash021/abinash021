@@ -69,14 +69,16 @@
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
 
 
+
 ## 🚀 Featured Projects
 
 | Project | Key Highlights | Technology Stack |
 |:---|:---|:---|
-| **🌱 Intelligent Crop Recommendation System – Data Science Project** | Crop prediction, potato leaf disease classification, and *Kishan Mitra* AI assistant. | Python · Streamlit · Random Forest · MobileNetV2 · LangChain |
-| **📸 Automated Attendance Management System – Web Application** | Face recognition, role-based access control, attendance reports, and defaulter tracking. | PHP · SQLite · AWS Rekognition · Git |
-| **🛒 E-commerce & Inventory Management – Web Application** | Product browsing, inventory management, and payment workflows. | PHP · MySQL · Git |
-| **🎯 Quiz Master – Desktop Application** | Offline-based quiz application designed for college students, featuring a desktop-based quiz experience. | Java · Java Swing · Java awt · Java iText · Git |
+| [**🌱 Intelligent Crop Recommendation System**](YOUR_CROP_PROJECT_URL) | Crop prediction, potato leaf disease classification, and *Kishan Mitra* AI assistant. | Python · Streamlit · Random Forest · MobileNetV2 · LangChain |
+| [**📸 Automated Attendance Management System**](https://github.com/abinash021/AAMS) | Face recognition, role-based access control, attendance reports, and defaulter tracking. | PHP · SQLite · AWS Rekognition · Git |
+| [**🛒 E-commerce & Inventory Management**](YOUR_ECOMMERCE_PROJECT_URL) | Product browsing, inventory management, and payment workflows. | PHP · MySQL · Git |
+| [**🎯 Quiz Master – Desktop Application**](YOUR_QUIZ_MASTER_URL) | Offline-based quiz application designed for college students. | Java · Java Swing · Java AWT · iText · Git |
+
 
 ## 🎓 Education & Credentials
 
