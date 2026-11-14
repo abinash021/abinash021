@@ -1,6 +1,6 @@
 # Hi, I am Abinash Patra👋👀
 
-<img align ="right" src = "https://github.com/abinash021/abinash021/blob/main/assets/daftpunktocat-thomas.gif" width="200" height="200">
+<img align ="right" src = "https://github.com/abinash021/abinash021/blob/main/assets/daftpunktocat-thomas.gif" width="150" height="200">
 
 ### Data Science · Data Analytics · Software Development
 
