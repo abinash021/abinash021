@@ -90,7 +90,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://linktr.ee/abinashpatra07">
-    <img src="https://img.shields.io/badge/Linktree-abinash021-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
+    <img src="https://img.shields.io/badge/Linktree-Profile-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
   </a>
 </p>
 
