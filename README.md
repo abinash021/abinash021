@@ -14,12 +14,9 @@
 
 ## 👨‍💻 About Me
 
--   🎓 **B.Tech CSE** --- SUIIT, Sambalpur University, Odisha
--   🎓 **Diploma IT** --- Govt. Polytechnic, Bhubaneswar, Odisha
 -   📊 Focus: **Data Science, Machine Learning & Data Analytics**
 -   💻 Also building **web applications and software solutions**
--   🌱 Currently strengthening skills in data, AI and full-stack
-    development
+-   🌱 Currently strengthening skills in data, AI and full-stack development
 
 ## ⚡ Core Technologies
 
