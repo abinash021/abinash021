@@ -54,33 +54,26 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
+
+
 ## 🚀 Featured Projects
 
-  -----------------------------------------------------------------------
-  Project                 Highlights              Stack
-  ----------------------- ----------------------- -----------------------
-  **Intelligent Crop      Crop prediction, potato Python · Streamlit ·
-  Recommendation**        leaf disease            Random Forest ·
-                          classification &        MobileNetV2 · LangChain
-                          *Kishan Mitra* AI       
-                          assistant               
+| Project | Key Highlights | Technology Stack |
+|:---|:---|:---|
+| **🌱 Intelligent Crop Recommendation System – Data Science Project** | Crop prediction, potato leaf disease classification, and *Kishan Mitra* AI assistant. | Python · Streamlit · Random Forest · MobileNetV2 · LangChain |
+| **📸 Automated Attendance Management System – Web Application** | Face recognition, role-based access control, attendance reports, and defaulter tracking. | PHP · SQLite · AWS Rekognition · Git |
+| **🛒 E-commerce & Inventory Management – Web Application** | Product browsing, inventory management, and payment workflows. | PHP · MySQL · Git |
+| **🎯 Quiz Master – Desktop Application** | Offline-based quiz application designed for college students, featuring a desktop-based quiz experience. | Java · Java Swing · Java awt · Java iText · Git |
 
-  **Automated Attendance  Face recognition,       PHP · SQLite · AWS
-  System**                role-based access,      Rekognition
-                          attendance reports &    
-                          defaulter tracking      
 
-  **E-commerce &          Product browsing,       Web · Database
-  Inventory App**         inventory management &  
-                          payment workflows       
-  -----------------------------------------------------------------------
+
 
 ## 🎓 Education & Credentials
 
--   **B.Tech, Computer Science & Engineering** --- SUIIT, Odisha
+-   **B.Tech, Computer Science & Engineering** --- SUIIT, Sambalpur University, Odisha
 -   **Diploma, Information Technology** --- Government Polytechnic,
-    Bhubaneswar
--   Certifications: **Microsoft Data Science · Cisco Python · BCG Forage
+    Bhubaneswar, Odisha
+-   Certifications: **Udemy Data Science · Cisco Python · BCG Forage
     Data Science · CCNAv7 · Full Stack Development**
 
 ## 📊 GitHub Statistics
