@@ -1,0 +1,17 @@
+Every flagship repository should contain:
+
+project-name/
+│
+├── .github/
+│   ├── ISSUE_TEMPLATE/
+│   └── workflows/
+│
+├── docs/
+├── src/
+├── tests/
+├── assets/
+├── README.md
+├── CONTRIBUTING.md
+├── LICENSE
+├── requirements.txt
+└── .gitignore
