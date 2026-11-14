@@ -1,5 +1,4 @@
-::: {align="center"}
-# ABINASH PATRA
+# Hi, I am ABINASH PATRA
 
 ### Data Science · Data Analytics · Software Development
 
@@ -7,16 +6,16 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-abinash021-181717?style=for-the-badge&logo=github)](https://github.com/abinash021)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patraabinash1028@gmail.com)
+[![Linktree](https://img.shields.io/badge/Linktree-abinash021-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/abinashpatra07)
 
-`<img src="https://komarev.com/ghpvc/?username=abinash021&style=flat-square&color=blue" alt="Profile views" />`{=html}
-:::
 
-------------------------------------------------------------------------
+## 👨‍💻 About Me
 
-## 👨‍💻 About
+<img align ="right" src = "https://github.com/abinash021/abinash021/assets/37103237/71528b45-2d50-4b5c-a5dc-67ba5242617a" width="150" height="200">
 
--   🎓 **B.Tech CSE** --- SUIIT, Odisha
--   📊 Focus: **Data Science, Machine Learning & Analytics**
+-   🎓 **B.Tech CSE** --- SUIIT, Sambalpur University, Odisha
+-   🎓 **Diploma IT** --- Govt. Polytechnic, Bhubaneswar, Odisha
+-   📊 Focus: **Data Science, Machine Learning & Data Analytics**
 -   💻 Also building **web applications and software solutions**
 -   🌱 Currently strengthening skills in data, AI and full-stack
     development
@@ -55,51 +54,63 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
+
+
 ## 🚀 Featured Projects
 
-  -----------------------------------------------------------------------
-  Project                 Highlights              Stack
-  ----------------------- ----------------------- -----------------------
-  **Intelligent Crop      Crop prediction, potato Python · Streamlit ·
-  Recommendation**        leaf disease            Random Forest ·
-                          classification &        MobileNetV2 · LangChain
-                          *Kishan Mitra* AI       
-                          assistant               
+| Project | Key Highlights | Technology Stack |
+|:---|:---|:---|
+| **🌱 Intelligent Crop Recommendation System – Data Science Project** | Crop prediction, potato leaf disease classification, and *Kishan Mitra* AI assistant. | Python · Streamlit · Random Forest · MobileNetV2 · LangChain |
+| **📸 Automated Attendance Management System – Web Application** | Face recognition, role-based access control, attendance reports, and defaulter tracking. | PHP · SQLite · AWS Rekognition · Git |
+| **🛒 E-commerce & Inventory Management – Web Application** | Product browsing, inventory management, and payment workflows. | PHP · MySQL · Git |
+| **🎯 Quiz Master – Desktop Application** | Offline-based quiz application designed for college students, featuring a desktop-based quiz experience. | Java · Java Swing · Java awt · Java iText · Git |
 
-  **Automated Attendance  Face recognition,       PHP · SQLite · AWS
-  System**                role-based access,      Rekognition
-                          attendance reports &    
-                          defaulter tracking      
 
-  **E-commerce &          Product browsing,       Web · Database
-  Inventory App**         inventory management &  
-                          payment workflows       
-  -----------------------------------------------------------------------
+
 
 ## 🎓 Education & Credentials
 
--   **B.Tech, Computer Science & Engineering** --- SUIIT, Odisha
+-   **B.Tech, Computer Science & Engineering** --- SUIIT, Sambalpur University, Odisha
 -   **Diploma, Information Technology** --- Government Polytechnic,
-    Bhubaneswar
--   Certifications: **Microsoft Data Science · Cisco Python · BCG Forage
+    Bhubaneswar, Odisha
+-   Certifications: **Udemy Data Science · Cisco Python · BCG Forage
     Data Science · CCNAv7 · Full Stack Development**
 
-## 📊 GitHub
+## 📊 GitHub Statistics
 
-::: {align="center"}
-`<img height="165" src="https://github-readme-stats.vercel.app/api?username=abinash021&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics" />`{=html}
-`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinash021&layout=compact&hide_border=true" alt="Top languages" />`{=html}
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abinash021&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinash021&layout=compact&hide_border=true" alt="Top languages" />
+</p>
 
-`<img src="https://streak-stats.demolab.com?user=abinash021&hide_border=true" alt="GitHub contribution streak" />`{=html}
-:::
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abinash021&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
 ## 🤝 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-abinash021-181717?style=for-the-badge&logo=github)](https://github.com/abinash021)
-[![Gmail](https://img.shields.io/badge/Gmail-patraabinash1028%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patraabinash1028@gmail.com)
+<p align="center">
+  <a href="https://github.com/abinash021">
+    <img src="https://img.shields.io/badge/GitHub-abinash021-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="mailto:patraabinash1028@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-patraabinash1028%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linktr.ee/abinashpatra07">
+    <img src="https://img.shields.io/badge/Linktree-abinash021-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
+  </a>
+</p>
 
-**Always learning. Always building.**
-:::
+<p align="center">
+  <strong>Always learning. Always building.</strong>
+</p>
+
+------------------------------------------------------------------------
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abinash021/abinash021/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+</p>
