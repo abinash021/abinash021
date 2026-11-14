@@ -9,11 +9,11 @@
 [![Linktree](https://img.shields.io/badge/Linktree-abinash021-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/abinashpatra07)
 
 
-------------------------------------------------------------------------
-
 ## 👨‍💻 About Me
 
--   🎓 **B.Tech CSE** --- SUIIT, Sambalpur, Odisha
+<img align ="right" src = "https://github.com/abinash021/abinash021/assets/37103237/71528b45-2d50-4b5c-a5dc-67ba5242617a" width="150" height="200">
+
+-   🎓 **B.Tech CSE** --- SUIIT, Sambalpur University, Odisha
 -   🎓 **Diploma IT** --- Govt. Polytechnic, Bhubaneswar, Odisha
 -   📊 Focus: **Data Science, Machine Learning & Data Analytics**
 -   💻 Also building **web applications and software solutions**
