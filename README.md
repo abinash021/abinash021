@@ -11,7 +11,7 @@
 
 ------------------------------------------------------------------------
 
-## 👨‍💻 About
+## 👨‍💻 About Me
 
 -   🎓 **B.Tech CSE** --- SUIIT, Sambalpur, Odisha
 -   🎓 **Diploma IT** --- Govt. Polytechnic, Bhubaneswar, Odisha
