@@ -109,7 +109,7 @@
 </p>
 
 <p align="center">
-  <strong>Always learning --- Always building</strong>
+  <strong>Always Learning --- Always Building</strong>
 </p>
 
 ## 🐍 Contribution Snake
