@@ -6,14 +6,13 @@
 
 **Building data-driven solutions and practical software.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-abinash021-181717?style=for-the-badge&logo=github)](https://github.com/abinash021)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patraabinash1028@gmail.com)
+
+[![Email](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patraabinash1028@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abinash021/)
 [![Linktree](https://img.shields.io/badge/Linktree-abinash021-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/abinashpatra07)
 
 
 ## 👨‍💻 About Me
-
-
 
 -   🎓 **B.Tech CSE** --- SUIIT, Sambalpur University, Odisha
 -   🎓 **Diploma IT** --- Govt. Polytechnic, Bhubaneswar, Odisha
@@ -84,11 +83,11 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/abinash021">
-    <img src="https://img.shields.io/badge/GitHub-abinash021-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
   <a href="mailto:patraabinash1028@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-patraabinash1028%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/abinash021/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://linktr.ee/abinashpatra07">
     <img src="https://img.shields.io/badge/Linktree-abinash021-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
