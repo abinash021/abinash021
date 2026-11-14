@@ -84,10 +84,7 @@
 <p align="center">
   <img src="./profile/stats.svg" alt="GitHub Statistics" height="180" />
   <img src="./profile/top-langs.svg" alt="Top Languages" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abinash021&hide_border=true" alt="GitHub contribution streak" />
+  <img src="./profile/streak.svg" alt="GitHub Contribution Streak" />
 </p>
 
 ------------------------------------------------------------------------
