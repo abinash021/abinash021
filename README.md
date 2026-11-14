@@ -1,4 +1,4 @@
-# Hi, I am Abinash Patra👋👀
+# Hi, I am Abinash Patra👋
 
 <img
   align="right"
