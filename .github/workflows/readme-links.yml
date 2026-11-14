@@ -1,0 +1,50 @@
+
+name: README Broken Links Checker
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "README.md"
+      - ".github/workflows/readme-links.yml"
+
+  pull_request:
+    paths:
+      - "README.md"
+      - ".github/workflows/readme-links.yml"
+
+  schedule:
+    # Every Monday at 9:00 AM IST
+    - cron: "30 3 * * 1"
+
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: readme-links-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  check-links:
+    name: Validate README Links
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v7
+
+      - name: Check README Links
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --verbose
+            --no-progress
+            --timeout 20
+            --max-retries 2
+            README.md
+          fail: true
+          failIfEmpty: false
+          jobSummary: true
